@@ -19,6 +19,8 @@ With that out of the way, let's talk about how you'll edit pages on your blog.
 
 To start, open up the markdown file powering this page at: `./src/routes/blog/how-to-build-a-blog-with-elderjs.md`
 
+Hi Mom!
+
 Once you've got it open, make some small changes, save the file and restart the server.
 When you reload this page you should see your changes.
 
